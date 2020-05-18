@@ -168,14 +168,11 @@
                     </div>
                 </div>
 
-              <!--</div>-->
+              <!--</div>
 
-<!--
-            </section>
--->
+               </section>
 
-
-            <!--<div class="s-12 m-12 l-5">
+            <div class="s-12 m-12 l-5">
               <p class="text-size-14 margin-m-bottom-30 text-dark">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica. Dolor in hendrerit in vulputate velit esse molestie consequat. Mirum est notare quam littera gothica. </p>
             </div>
             <div class="s-12 m-12 l-5">
